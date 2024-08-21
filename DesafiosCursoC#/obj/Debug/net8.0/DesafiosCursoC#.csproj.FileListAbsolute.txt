@@ -1,0 +1,14 @@
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\bin\Debug\net8.0\DesafiosCursoC#.exe
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\bin\Debug\net8.0\DesafiosCursoC#.deps.json
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\bin\Debug\net8.0\DesafiosCursoC#.runtimeconfig.json
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\bin\Debug\net8.0\DesafiosCursoC#.dll
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\bin\Debug\net8.0\DesafiosCursoC#.pdb
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.AssemblyInfoInputs.cache
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.AssemblyInfo.cs
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.csproj.CoreCompileInputs.cache
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.dll
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\refint\DesafiosCursoC#.dll
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.pdb
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\DesafiosCursoC#.genruntimeconfig.cache
+D:\curso-C#\DesafiosCursoC#\DesafiosCursoC#\obj\Debug\net8.0\ref\DesafiosCursoC#.dll
